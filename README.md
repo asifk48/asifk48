@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifk48&theme=onedark&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="asifk48" /></a> </p>
 
-- 🔭 I’m currently immersed in developing the **YOLO model for deep learning** in object detection, leveraging powerful frameworks like **TensorFlow** and **PyTorch** to push the boundaries of accuracy and efficiency in real-time applications.
+- 🔭 I’m currently immersed in developing the **YOLO model for deep learning** in object detection, leveraging powerful frameworks like **TensorFlow** and **PyTorch**.
 
-- 🌱 I'm on a journey to master **Deep Learning and Natural Language Processing (NLP)**, concentrating on cutting-edge models such as **YOLO, Convolutional Neural Networks (CNNs), and Transformers**. My goal is to harness these advanced techniques to elevate my understanding and contribute to innovative AI solutions.
+- 🌱 I'm on a journey to master **Deep Learning and Natural Language Processing (NLP)**, concentrating on cutting-edge models such as **YOLO, CNNs, and Transformers**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/asifk48](https://github.com/asifk48)
+- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/asifk48)
 
 - 📫 How to reach me **mohammadasif7494@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://kaggle.com/your-kaggle-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/your-hackerrank-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mohammad-asif-khan-a3089a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,10 +28,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
   <a href="https://tableau.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-wordmark.svg" alt="tableau" width="40" height="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-</p>
-
-<p align="center"> 
-  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*tD5kEC2JYcKHH0zO.gif" alt="animated gif" />
 </p>
 
 <h3 align="left">Achievements:</h3>
