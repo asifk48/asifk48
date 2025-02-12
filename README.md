@@ -19,15 +19,15 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mohammad-asif-khan-a3089a24a" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://kaggle.com/your-kaggle-profile" target="blank">
-    <img src="https://img.shields.io/badge/Kaggle-darkblue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/your-hackerrank-profile" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
