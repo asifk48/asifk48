@@ -28,11 +28,8 @@
   <a href="https://linkedin.com/in/mohammad-asif-khan-a3089a24a" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
-  <a href="https://www.kaggle.com/asifk48" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/mohammadasif7494" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" />
+  <a href="https://public.tableau.com/app/profile/mohammad.asif.khan" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="40" width="50" />
   </a>
 </p>
 
