@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Asif Khan, a Data Analyst</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Asif Khan, Data Analyst</h1>
 <h3 align="center">🚀 A Passionate Data Analyst 🚀</h3>
 
 <p align="center">
