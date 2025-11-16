@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48)**
 
-- 📫 How to reach me: **mohammadasif7494@gmail.com**
+- 📫 How to reach me: **md.asif5871@gmail.com**
 
 - 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1sbaIYRbdOX3mBaUG4nuFQe0Z2UaOUwF9/view?usp=drive_link)**
 
