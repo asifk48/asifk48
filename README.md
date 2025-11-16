@@ -11,9 +11,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently immersed in developing the **YOLO model for deep learning** in object detection, leveraging powerful frameworks like **TensorFlow** and **PyTorch**.
+- 🔭 I’m currently working on improving my **data analysis** and **machine learning** skills through hands-on projects.
 
-- 🌱 I'm on a journey to master **Deep Learning and NLP**, concentrating on **YOLO, CNNs, and Transformers** to contribute to AI solutions.
+- 🌱 I’m learning **Python**, **SQL**, **Power BI**, and **Tableau** to get better at handling data and finding useful insights.
+
+- 📊 I like exploring **datasets**, cleaning data, and creating simple **dashboards** and reports.
+
+- 🚀 My goal is to grow as a **Data Analyst** and work on real projects that help in decision-making.
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48)**
 
