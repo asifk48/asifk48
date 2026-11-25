@@ -19,11 +19,11 @@
 
 - 🚀 My goal is to grow as a **Data Analyst** and work on real projects that help in decision-making.
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://asifk48.github.io/)**
 
 - 📫 How to reach me: **md.asif5871@gmail.com**
 
-- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1gPrIBlJaNrr76M6W3omqE6Hzr6cDCux-/view?usp=sharing)**
+- 📄 Know about my experiences **[Here](https://drive.google.com/file/d/1Z_xIxxLcoa1Sf43wiffIlpaC24qTrKYS/view?usp=sharing)**
 
 ---
 
@@ -71,13 +71,12 @@
 
 ---
 
-<h3 align="center">🏆 Achievements 🏆</h3>
+<h3 align="center">🎓 Training & Certifications 🎓</h3>
 <ul align="center">
-  <li>🏅 HackerRank - SQL Silver Badge</li>
-  <li>🏅 Microsoft Certified: Data Analyst Associate (Power BI)</li>
-  <li>🏅 AWS Certified Solutions Architect – Associate</li>
+  <li>📜 The Complete Data Analyst Bootcamp – Udemy</li>
+  <li>📜 Data Science & Analytics Training (30 Hours) – Pillai College</li>
+  <li>📜 Data Analytics & Visualization using Excel & Python – Udemy</li>
 </ul>
-
 ---
 
 <h3 align="center">📊 My GitHub Stats 📊</h3>
