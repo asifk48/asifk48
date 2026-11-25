@@ -6,18 +6,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asifk48&theme=onedark&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" alt="asifk48" />
-  </a>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-008FD3?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-- 🔭 I’m currently working on improving my **data analysis** and **machine learning** skills through hands-on projects.
+- 🔭 Currently working in MIS & Data Reporting, handling SAP ERP operations, budget tracking, and business reporting.
 
-- 🌱 I’m learning **Python**, **SQL**, **Power BI**, and **Tableau** to get better at handling data and finding useful insights.
+- 🛠️ Skilled in SQL, Power BI (DAX), Advanced Excel, Python and Tableau for data analysis and dashboard development.
 
-- 📊 I like exploring **datasets**, cleaning data, and creating simple **dashboards** and reports.
+- 📊 Built interactive dashboards analyzing financial transactions ($25M+), EV adoption trend and operational metrics.
 
-- 🚀 My goal is to grow as a **Data Analyst** and work on real projects that help in decision-making.
+- 🚀 Passionate about transforming raw business data into automated reports and actionable insights.
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48/asifk48)**
 
