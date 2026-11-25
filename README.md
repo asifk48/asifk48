@@ -22,7 +22,7 @@
 
 - 🚀 Passionate about transforming raw business data into automated reports and actionable insights.
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48/asifk48)**
+- 💻 All of my projects are available at **[GitHub](https://github.com/asifk48?tab=repositories)**
 
 - 📫 How to reach me: **md.asif5871@gmail.com**
 
@@ -80,6 +80,7 @@
   <li>📜 Data Science & Analytics Training (30 Hours) – Pillai College</li>
   <li>📜 Data Analytics & Visualization using Excel & Python – Udemy</li>
 </ul>
+
 ---
 
 <h3 align="center">📊 My GitHub Stats 📊</h3>
@@ -94,6 +95,7 @@
 </p>
 
 ---
+
 
 <h3 align="center">🔥 Projects Done in Different Languages and Tools 🔥</h3>
 <p align="center">
