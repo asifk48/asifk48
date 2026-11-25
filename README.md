@@ -19,7 +19,7 @@
 
 - 🚀 My goal is to grow as a **Data Analyst** and work on real projects that help in decision-making.
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://asifk48.github.io/)**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/asifk48/asifk48)**
 
 - 📫 How to reach me: **md.asif5871@gmail.com**
 
